@@ -2,7 +2,7 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 A change
 Anyone who cares about expiration dates will not get in the way of the glory train!
 Some text on the second line.
-Some more text, now on the ~~third~~ line.
+Some more text, now on the no-longer-third line.
 This whole festival was put together by twenty third-graders with lots of chutzpah and one panda!
 One ticket, please.
 The dense forest turns into a shopping district. The 24-bit eggplant will be analyzed.
