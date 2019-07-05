@@ -1,2 +1,3 @@
-HI! I'm Bob. I'm new here.
+Hi! I'm Bobby. I've been here for a while now.
+Some more text to mess with things.
 If there's nothing, then I won't do anything.
